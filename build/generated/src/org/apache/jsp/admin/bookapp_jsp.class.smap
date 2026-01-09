@@ -1,0 +1,30 @@
+SMAP
+bookapp_jsp.java
+JSP
+*S JSP
+*F
++ 0 bookapp.jsp
+admin/bookapp.jsp
++ 1 header.jsp
+admin/header.jsp
++ 2 footer.jsp
+admin/footer.jsp
+*L
+1,6:55
+1#1,195:60
+6#0,27:254
+33,12:282
+44,2:294
+46,3:296,3
+49,3:305
+52:308,3
+53,5:311
+58,3:317
+60,3:320
+63:323,3
+64,3:326
+67,6:330
+72,90:336
+1#2,53:425
+161#0,2:477
+*E

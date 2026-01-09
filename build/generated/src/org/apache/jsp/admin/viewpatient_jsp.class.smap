@@ -1,0 +1,35 @@
+SMAP
+viewpatient_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewpatient.jsp
+admin/viewpatient.jsp
++ 1 header.jsp
+admin/header.jsp
++ 2 footer.jsp
+admin/footer.jsp
+*L
+1,2:52
+1#1,173:54
+3#0,26:226
+28,5:252
+33:257,3
+34,3:260
+37:263,3
+38,3:266
+41:269,3
+42,3:272
+45:275,3
+46,3:278
+49:281,3
+50,4:284
+53,10:288
+62:298
+63:299,3
+64,4:302
+67,5:306
+71,5:311
+1#2,53:315
+75#0:367
+*E
